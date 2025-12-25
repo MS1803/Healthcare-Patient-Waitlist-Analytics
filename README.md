@@ -159,3 +159,4 @@ This dashboard enables stakeholders to:
 DashBoard Link: https://app.powerbi.com/links/5N1JNecN3P?ctid=7bf353d5-4159-465b-870d-86ae7ae46cb8&pbi_source=linkShare&bookmarkGuid=b7665980-8037-453b-9411-6dfecbaaf6cf
 
 
+<img width="1320" height="741" alt="Screenshot 2025-12-25 140546" src="https://github.com/user-attachments/assets/c2c7b572-4514-4fd6-b847-23c615216640" />

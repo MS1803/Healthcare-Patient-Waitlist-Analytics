@@ -160,3 +160,6 @@ DashBoard Link: https://app.powerbi.com/links/5N1JNecN3P?ctid=7bf353d5-4159-465b
 
 
 <img width="1320" height="741" alt="Screenshot 2025-12-25 140546" src="https://github.com/user-attachments/assets/c2c7b572-4514-4fd6-b847-23c615216640" />
+<img width="1317" height="737" alt="Screenshot 2025-12-25 140558" src="https://github.com/user-attachments/assets/4e64624c-ffad-41b9-8a44-40f5641039f7" />
+<img width="339" height="741" alt="Screenshot 2025-12-25 140610" src="https://github.com/user-attachments/assets/d52ecc37-c3bf-4de1-825a-bffe082869c3" />
+
